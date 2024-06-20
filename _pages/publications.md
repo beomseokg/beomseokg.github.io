@@ -29,6 +29,8 @@ author_profile: true
 
 <span style="color:MediumVioletRed">[Arxiv 2024] </span> : Kumar, H., Chakraborty, B., **Kang, B.**, Mukhopadhyay, S., Studying the Impact of Stochasticity on the Evaluation of Deep Neural Networks for Forest-Fire Prediction
 
+<span style="color:MediumVioletRed">[IJCNN 2022] </span> : **Kang, B.**, Kumar, H, Dash, S., Mukhopadhyay, S., Unsupervised Hebbian Learning on Point Sets in Starcraft II
+
 #{% for post in site.publications reversed %}
 #  {% include archive-single.html %}
 #{% endfor %}
