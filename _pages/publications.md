@@ -11,15 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
-<span style="color:MediumVioletRed">[NeurIPS 2024] </span> : **Beomseok K.**; ... ; (Under Review)
+<span style="color:MediumVioletRed">[NeurIPS 2024] </span> : **Kang, B.**; ... ; (Under Review)
 
-<span style="color:MediumVioletRed">[ECCV 2024] </span> : **Beomseok K.**; ... ; (Under Review)
+<span style="color:MediumVioletRed">[ECCV 2024] </span> : **Kang B.**; ... ; (Under Review)
 
-<span style="color:MediumVioletRed">[L4DC 2024] </span> : **Beomseok K.**; Harshit K.; Minah L.; Biswadeep C.; Saibal M.; Learning Locally Interacting Discrete Dynamical Systems: Towards Data-Efficient and Scalable Prediction
+<span style="color:MediumVioletRed">[L4DC 2024] </span> : **Kang, B.**; Kumar, H.; Lee, M.; Chakraborty, B.; Mukhopadhyay, S.; Learning Locally Interacting Discrete Dynamical Systems: Towards Data-Efficient and Scalable Prediction
 
-<span style="color:MediumVioletRed">[L4DC 2024] </span> : **Beomseok K.**; Harshit K.; Minah L.; Biswadeep C.; Saibal M.; Learning Locally Interacting Discrete Dynamical Systems: Towards Data-Efficient and Scalable Prediction
-
-<span style="color:MediumVioletRed">[IEEE Sensors Journal 2024] </span> : **Sudarshan S.***, **Beomseok K.***, Narasimha V. K., Saibal M.; HamQ: Hamming Weight-based Energy Aware Quantization for Analog Compute-In-Memory Accelerator in Intelligent Sensors (*: 1-st author)
+<span style="color:MediumVioletRed">[IEEE Sensors Journal 2024] </span> : **Sharma, S.**; **Kang, B.*** ; Narasimha V. K., Saibal M.; HamQ: Hamming Weight-based Energy Aware Quantization for Analog Compute-In-Memory Accelerator in Intelligent Sensors (*: 1-st author)
 
 #{% for post in site.publications reversed %}
 #  {% include archive-single.html %}
