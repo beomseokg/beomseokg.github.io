@@ -10,8 +10,13 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+<span style="color:MediumVioletRed">[NeurIPS 2024] </span> : **Beomseok K.**; ... ; (Under Review)
+
+<span style="color:MediumVioletRed">[ECCV 2024] </span> : **Beomseok K.**; ... ; (Under Review)
+
 <span style="color:MediumVioletRed">[L4DC 2024] </span> : **Beomseok K.**; Harshit K.; Minah L.; Biswadeep C.; Saibal M.; Learning Locally Interacting Discrete Dynamical Systems: Towards Data-Efficient and Scalable Prediction
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+#{% for post in site.publications reversed %}
+#  {% include archive-single.html %}
+#{% endfor %}
