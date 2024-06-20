@@ -33,6 +33,6 @@ author_profile: true
 
 <span style="color:MediumVioletRed">[IEEE JETCAS 2021] </span> : **Kang, B.**, Lu, A., Long, Y., Kim, D., Yu, S., Mukhopadhyay, S., Genetic algorithm-based energy-aware CNN quantization for processing-in-memory architecture
 
-#{% for post in site.publications reversed %}
-#  {% include archive-single.html %}
-#{% endfor %}
+##{% for post in site.publications reversed %}
+##  {% include archive-single.html %}
+##{% endfor %}
