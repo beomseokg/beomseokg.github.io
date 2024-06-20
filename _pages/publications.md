@@ -17,6 +17,8 @@ author_profile: true
 
 <span style="color:MediumVioletRed">[L4DC 2024] </span> : **Kang, B.**; Kumar, H.; Lee, M.; Chakraborty, B.; Mukhopadhyay, S.; Learning Locally Interacting Discrete Dynamical Systems: Towards Data-Efficient and Scalable Prediction
 
+<span style="color:MediumVioletRed">[IJCNN 2024] </span> : **Kang, B.**; Lee, M. ; Kumar, H. ; Mukhopadhyay, S.; Structured Latent Space for Lightweight Prediction in Locally Interacting Discrete Dynamical Systems
+
 <span style="color:MediumVioletRed">[IEEE Sensors Journal 2024] </span> : **Sharma, S.**; **Kang, B.*** ; Narasimha V. K., Saibal M.; HamQ: Hamming Weight-based Energy Aware Quantization for Analog Compute-In-Memory Accelerator in Intelligent Sensors (*: 1-st author)
 
 #{% for post in site.publications reversed %}
