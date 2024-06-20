@@ -19,7 +19,7 @@ author_profile: true
 
 <span style="color:MediumVioletRed">[IJCNN 2024] </span> : **Kang, B.**; Lee, M. ; Kumar, H. ; Mukhopadhyay, S.; Structured Latent Space for Lightweight Prediction in Locally Interacting Discrete Dynamical Systems
 
-<span style="color:MediumVioletRed">[IEEE Sensors Journal 2024] </span> : Sharma, S.†; **Kang, B.**† ; Narasimha V. K., Saibal M.; HamQ: Hamming Weight-based Energy Aware Quantization for Analog Compute-In-Memory Accelerator in Intelligent Sensors (†: 1-st author)
+<span style="color:MediumVioletRed">[IEEE Sensors Journal 2024] </span> : Sharma, S.†; **Kang, B.**† ; Narasimha V. K., Saibal M.; HamQ: Hamming Weight-based Energy Aware Quantization for Analog Compute-In-Memory Accelerator in Intelligent Sensors (†: 1st author)
 
 <span style="color:MediumVioletRed">[ICLR 2024] </span> : Chakraborty, B., **Kang, B.**, Kumar, H., Mukhopadhyay, S., Sparse Spiking Neural Network: Exploiting Heterogeneity in Timescales for Pruning Recurrent SNN
 
