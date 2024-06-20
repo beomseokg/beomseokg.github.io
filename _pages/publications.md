@@ -27,6 +27,7 @@ author_profile: true
 
 <span style="color:MediumVioletRed">[ICLR 2023] </span> : **Kang, B.**, Chakraborty, B., Mukhopadhyay, S., Unsupervised 3D Object Learning through Neuron Activity aware Plasticity
 
+<span style="color:MediumVioletRed">[Arxiv 2024] </span> : Kumar, H., Chakraborty, B., **Kang, B.**, Mukhopadhyay, S., Studying the Impact of Stochasticity on the Evaluation of Deep Neural Networks for Forest-Fire Prediction
 
 #{% for post in site.publications reversed %}
 #  {% include archive-single.html %}
