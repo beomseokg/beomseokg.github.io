@@ -10,5 +10,4 @@ redirect_from:
 About Me
 ======
 
-Hello! I am a fifth-year Ph.D. candidate in Electrical and Computer Engineering at Georgia Tech, advised by Prof. Saibal Mukhopadhyay. My current research is in AI-driven system modeling, with a focus on malware detection and discrete dynamical systems (e.g., forest fire).
-
+Hello! I am a fifth-year Ph.D. candidate in Electrical and Computer Engineering at Georgia Tech, advised by Prof. Saibal Mukhopadhyay. My current research is in learning representation, relation, and prediction of multi-agent systems using deep learning in a data-efficient and computation-effient manner.
