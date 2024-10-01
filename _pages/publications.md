@@ -11,9 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
-<span style="color:MediumVioletRed">[NeurIPS 2024] </span> : **Kang, B.**, ... (Under Review)
+<span style="color:MediumVioletRed">[AAAI 2025] </span> : **Kang B.**, ... (Under Review)
 
-<span style="color:MediumVioletRed">[ECCV 2024] </span> : **Kang B.**, ... (Under Review)
+<span style="color:MediumVioletRed">[NeurIPS 2024] </span> : **Kang, B.**, Saha, P., Sharma, S., Chakraborty, B., Mukhopadhyay, S., Online Relational Inference for Evolving Multi-agent Interacting System
 
 <span style="color:MediumVioletRed">[L4DC 2024] </span> : **Kang, B.**, Kumar, H., Lee, M., Chakraborty, B., Mukhopadhyay, S., Learning Locally Interacting Discrete Dynamical Systems: Towards Data-Efficient and Scalable Prediction
 
