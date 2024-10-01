@@ -10,11 +10,22 @@ redirect_from:
 About Me
 ======
 
-Hello! I am a fifth-year Ph.D. candidate in Electrical and Computer Engineering at Georgia Tech, advised by Prof. Saibal Mukhopadhyay. My current research is in learning representation, relation, and prediction of multi-agent systems using deep learning in a data-efficient and computation-effient manner.
+Hello! I am a fifth-year Ph.D. candidate (will be graduating in December!) in Electrical and Computer Engineering at Georgia Tech, advised by Prof. Saibal Mukhopadhyay. My current research is in learning representation, relation, and prediction of multi-agent systems using deep learning in a computation and data-efficient way.
+
+Research Interest
+======
++ Unsupervised Learning
+
++ Compression (e.g., Quantization)
+
++ Out-of-distribution
+
+
+
 
 Education
 ======
-+  <i class="fas fa-graduation-cap"></i> **PhD Electrical and Computer Engineering** (2020-2024 expected) - Georgia Institute of Technology
++  <i class="fas fa-graduation-cap"></i> **PhD Electrical and Computer Engineering** (2020-2024) - Georgia Institute of Technology
 
 +  <i class="fas fa-graduation-cap"></i> **MS Electrical and Computer Engineering** (2020-2022) - Georgia Institute of Technology
 
