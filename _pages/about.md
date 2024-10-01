@@ -14,8 +14,8 @@ Hello! I am a fifth-year Ph.D. candidate in Electrical and Computer Engineering 
 
 Education
 ======
-PhD Electrical and Computer Engineering (2020-2024 expected) - Georgia Institute of Technology
++  <i class="fas fa-graduation-cap"></i> **PhD Electrical and Computer Engineering** (2020-2024 expected) - Georgia Institute of Technology
 
-MS Electrical and Computer Engineering (2020-2022) - Georgia Institute of Technology
++  <i class="fas fa-graduation-cap"></i> **MS Electrical and Computer Engineering** (2020-2022) - Georgia Institute of Technology
 
-BS Electrical Engineering (2015-2020) - Sungkyunkwan University
++  <i class="fas fa-graduation-cap"></i> **BS Electrical Engineering** (2015-2020) - Sungkyunkwan University
