@@ -26,8 +26,8 @@ Research Interest
 
 Education
 ======
-+  <i class="fas fa-graduation-cap"></i> **PhD Electrical and Computer Engineering** (2020-2024) - Georgia Institute of Technology
++  <i class="fas fa-graduation-cap"></i> **PhD Electrical and Computer Engineering** - Georgia Institute of Technology
 
-+  <i class="fas fa-graduation-cap"></i> **MS Electrical and Computer Engineering** (2020-2022) - Georgia Institute of Technology
++  <i class="fas fa-graduation-cap"></i> **MS Electrical and Computer Engineering** - Georgia Institute of Technology
 
-+  <i class="fas fa-graduation-cap"></i> **BS Electrical Engineering** (2015-2020) - Sungkyunkwan University
++  <i class="fas fa-graduation-cap"></i> **BS Electrical Engineering** - Sungkyunkwan University
